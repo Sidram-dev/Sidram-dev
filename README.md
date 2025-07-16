@@ -1,5 +1,8 @@
 ## 👋 Hi there, I'm Sidramappa Chadchan!
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Sidram-dev&label=Profile%20Views&color=0e75b6&style=flat)
+
+
 🎯 A passionate **Java Full Stack Developer** with a knack for building robust backend systems and dynamic user interfaces.
 ---
 
