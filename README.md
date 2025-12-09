@@ -7,8 +7,8 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Java, SQL, JavaScript  
-- **Frameworks:** Spring Boot, Hibernate, Servlets, JSP  
+- **Languages:** Java, SQL, JavaScript,PHP
+- **Frameworks:** Spring Boot, Hibernate, Servlets, JSP ,CodeIgnitor
 - **Frontend:** HTML, CSS, JavaScript, React  
 - **Database:** MySQL  
 - **Tools:** Git, GitHub, VS Code, IntelliJ IDEA
